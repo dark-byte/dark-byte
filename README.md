@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science student with 4+ years of experience in full-stack development (MERN), driven by curiosity and a love for technology. I started coding at 13, and it has empowered me to bring my ideas to life. Currently, I’m interning at GoCobalt.io, focusing on integrating applications into the platform and backend development.<br><br>Beyond coding, I’m a passionate explorer with diverse interests, including:<br>	-	Finance and startups<br>	-	Traveling the world<br>	-	Swimming<br>	-	Music (guitar and singing)<br>	-	Reading books<br><br>I believe in constant learning and using technology to make a meaningful impact.
+Computer Science graduate ('25) with 4+ years of experience in full-stack development (MERN), driven by curiosity and a love for technology. I started coding at 13, and it has empowered me to bring my ideas to life. Currently, I’m interning at Outbox Labs (outbox.vc), focusing on building features, scaling and making Zapmail robust, as the product grows.<br><br>Beyond coding, I’m a passionate explorer with diverse interests, including:<br>	-	Finance and startups<br>	-	Traveling the world<br>	-	Swimming<br>	-	Music (guitar and singing)<br>	-	Reading books<br><br>I believe in constant learning and using technology to make a meaningful impact.
 
 
 ## 🌐 Socials:
